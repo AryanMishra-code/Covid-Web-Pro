@@ -1,0 +1,34 @@
+.header{
+    background: linear-gradient(to Bottom, red, yellow, magenta, orange);
+    justify-content: left;
+}
+.header2{
+    background: radial-gradient(yellow, magenta, orange);
+}
+.causes{
+    background: linear-gradient(to Left, blue, yellow, orangered);
+}
+.h{
+    background-color: chartreuse;
+}
+.prevent{
+    background: radial-gradient(red, yellow, orange, violet, greenyellow);
+}
+.he{
+    background-color: cyan;
+}
+.p{
+    background: linear-gradient(to Top, yellow, yellowgreen, orange, magenta);
+}
+.phv{
+    background: radial-gradient(red, orange, yellow, magenta, greenyellow);
+}
+.head{
+    background: radial-gradient(red, yellow, orange);
+}
+.linker{
+    background: linear-gradient(to Right, yellow, orange, magenta, red, orangered);
+}
+.e{
+    background-color: aqua;
+}
